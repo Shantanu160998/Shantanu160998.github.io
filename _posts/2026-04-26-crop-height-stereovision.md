@@ -80,7 +80,7 @@ To streamline this process, we developed a custom Crop Height Collector interfac
 
 <div align="center">
   <img src="/images/Data collection interface.JPG" alt="Crop Height Collector field data system interface">
-  <p><em>Software interface for capturing and logging ground reference and canopy depth.</em></p>
+  <p><em>Fig 5: Software interface for capturing and logging ground reference and canopy depth.</em></p>
 </div>
 
 ### Data Tables
@@ -102,7 +102,7 @@ After processing the raw frames into depth heatmaps, we evaluated the system-ave
 
 <div align="center">
   <img src="/images/Sample depth images for crop height measurements.JPG" alt="RGB and corresponding depth heatmaps of crop canopies">
-  <p><em>Fig 5: Sample RGB images and their corresponding depth heatmaps used for measurement.</em></p>
+  <p><em>Fig 6: Sample RGB images and their corresponding depth heatmaps used for measurement.</em></p>
 </div>
 
 Several interesting observations emerged from the data:
