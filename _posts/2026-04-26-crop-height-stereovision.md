@@ -86,12 +86,12 @@ To streamline this process, we developed a custom Crop Height Collector interfac
 ### Data Tables
 
 <div align="center">
-  <img src="/images/YOUR_TABLE_1.jpg" alt="Data at 132 cm mounting height">
+  <img src="/images/Data for 132cm-4ft measurements.JPG" alt="Data at 132 cm mounting height">
   <p><em>Table 1: Data collected at 132 cm (~4 ft) mounting height.</em></p>
 </div>
 
 <div align="center">
-  <img src="/images/YOUR_TABLE_2.jpg" alt="Data at 190 cm mounting height">
+  <img src="/images/Data for 190 cm - 6ft measurements.JPG" alt="Data at 190 cm mounting height">
   <p><em>Table 2: Data collected at 190 cm (~6 ft) mounting height.</em></p>
 </div>
 
